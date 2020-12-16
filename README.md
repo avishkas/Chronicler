@@ -78,3 +78,4 @@ test2-branch1
 test3-branch3
 test6-branch6
 rel-230.11A-hotfix1
+rel-230.11A-hotfix2
